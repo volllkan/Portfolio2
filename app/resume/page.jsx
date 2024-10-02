@@ -9,7 +9,7 @@ const about = {
   info: [
     {
       fieldName: "Telefon",
-      fieldValue: "(+90) 546 681 4550",
+      fieldValue: "(+90) 546 681 ----",
     },
     {
       fieldName: "Tecrübe",
