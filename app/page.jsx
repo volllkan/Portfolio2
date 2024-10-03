@@ -18,7 +18,7 @@ const Home = () => {
               <span className="text-accent">Volkan Eray </span>
             </h1>
             <p className="max-w-[500px] mb-9 text-white/80">
-              Ben Volkan  Kırşehir ahi evran Üniversitesinde Web Tasarım ve Kodlama bölümünden mezuyum. Hergün kendimi geliştirmeye çalışıyorum  {" "}
+              Ben Volkan  Kırşehir ahi evran Üniversitesinde Web Tasarım ve Kodlama bölümünden mezuyum. Her gün kendimi geliştirmeye çalışıyorum  {" "}
             </p>
             {/* Button */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
