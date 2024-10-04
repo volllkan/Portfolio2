@@ -26,7 +26,7 @@ const Header = () => {
         <Nav />
           <Link href="/contact">
             <Button>
-              Hire Me
+              Bana Ulaşın
             </Button>
           </Link>
         </div>
