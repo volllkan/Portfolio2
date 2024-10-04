@@ -26,7 +26,7 @@ const Header = () => {
         <Nav />
           <Link href="/contact">
             <Button>
-              Bana Ulaşın
+              Bana Ulasın
             </Button>
           </Link>
         </div>
